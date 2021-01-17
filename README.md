@@ -2,7 +2,7 @@
 
 안녕하세요 지소라입니다
 
-개발자브이로그 유튜브채널 👉🏻<a href="https://www.youtube.com/channel/UChw8-Vz55b-5ZZtsI_0I6uw"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UChw8-Vz55b-5ZZtsI_0I6uw"/></a>
+<a href="https://www.youtube.com/channel/UChw8-Vz55b-5ZZtsI_0I6uw"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UChw8-Vz55b-5ZZtsI_0I6uw"/></a>
 <br>
 <br>
 ---
