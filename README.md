@@ -7,7 +7,7 @@
 <br>
 ---
 
-주로 classic ASP와 Vue.js를 이용하여 웹사이트를 만듭니다
+classic ASP와 Vue.js를 이용하여 웹사이트를 만듭니다
 ### 👩🏻‍💻Front-End tech stack🛠
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp;
 
 
-주로 java로 크롤링을 합니다.
+java & Python 으로 크롤링을 합니다.
 ### 👩🏻‍💻Back-End tech stack🛠
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
