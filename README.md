@@ -1,6 +1,6 @@
 # 👻 WELCOME TO SORA's DEVlog 🎉
 
-안녕하세요 만드는걸 좋아하는 지소라입니다
+만드는걸 좋아하는 지소라입니다
 
 <a href="https://www.youtube.com/channel/UChw8-Vz55b-5ZZtsI_0I6uw"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UChw8-Vz55b-5ZZtsI_0I6uw"/></a>
 <br>
